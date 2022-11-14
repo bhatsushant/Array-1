@@ -1,4 +1,4 @@
-/* Problem 2: Spril Matrix
+/* Problem 2: Leetcode 498 - Diagonal Traverse
  
 Time Complexity : O(n)
 Space Complexity : O(1)
